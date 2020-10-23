@@ -1,1 +1,1 @@
-var playlist = {Elder: Sanctuary}
+var playlist = {Elder: 'Sanctuary'};
