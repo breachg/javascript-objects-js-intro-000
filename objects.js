@@ -1,6 +1,6 @@
 var playlist = {Elder: 'Sanctuary'};
 
-function updatePlaylist(object, artistName, songTitle){
+function updatePlaylist(playlist, artistName, songTitle){
  playlist['artistName'] = 'songTitle'
 }
 
