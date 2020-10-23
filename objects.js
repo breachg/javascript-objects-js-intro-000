@@ -1,4 +1,3 @@
 var playlist = {Elder: 'Sanctuary'};
 
-playlist['Tom Petty'] = 'free fallin'
-
+Object.assign({}, playlist, {'Tom Petty', 'Free fallin'})
