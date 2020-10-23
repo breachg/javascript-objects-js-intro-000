@@ -1,5 +1,5 @@
 var playlist = {Elder: 'Sanctuary'};
 
 function updatePlaylist(playlist, artistName, songTitle) {
- Object.assign({}, playlist, {'artistName': 'songTitle'})
+ return Object.assign({}, playlist, {'artistName': 'songTitle'})
  }
