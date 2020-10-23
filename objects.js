@@ -1,4 +1,4 @@
-function objects() {
+function object() {
 var playlist = {Elder: 'Sanctuary'};
 }
 
