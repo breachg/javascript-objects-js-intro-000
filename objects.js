@@ -1,7 +1,7 @@
 var playlist = {Elder: 'Sanctuary'};
 
 function updatePlaylist(object, artistName, songTitle){
- Object.assign({}, playlist, {'Tome Petty': 'Free Fallin'})
+ playlist['artistName'] = 'songTitle')
 }
 
 function removeFromPlaylist(playlist, artistName) {
